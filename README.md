@@ -23,3 +23,4 @@
 .Other dependencies as needed
 
 
+![image alt](https://github.com/Fouad-Showmik/Alopecia-Hair-Loss-Factors-Detector/blob/main/APP%20UI.jpg)
