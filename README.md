@@ -23,4 +23,4 @@
 .Other dependencies as needed
 
 
-![image alt](https://github.com/Fouad-Showmik/Alopecia-Hair-Loss-Factors-Detector/blob/main/APP%20UI.jpg)
+![image alt](https://github.com/Fouad-Showmik/Task_Dynamic_Survey_App/blob/main/App_UI.png)
